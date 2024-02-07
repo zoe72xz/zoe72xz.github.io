@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhu Xi"
 title_separator          : "-"
-name                     : &name "Zhu Xi"
+name                     : &name "Zhu Xi / Homepage"
 description              : &description "personal description"
 url                      : https://zoe72xz.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
