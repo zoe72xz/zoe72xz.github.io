@@ -13,6 +13,7 @@ Education
 ======
 * Bachelor of Journalism, The University of Hong Kong, 2025 (expected)
 
+</br>
 
 .pdf
 ======
@@ -20,6 +21,7 @@ Education
 * For Finance
 * For CompSci
 
+</br>
 
 Experience
 ======
