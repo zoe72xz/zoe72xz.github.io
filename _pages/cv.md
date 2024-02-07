@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+</br>
+</br>
+
 Education
 ======
 * Bachelor of Journalism, The University of Hong Kong, 2025 (expected)
