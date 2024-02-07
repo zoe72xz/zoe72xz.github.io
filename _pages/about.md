@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Bio & Milestones
+title: Milestones
 excerpt: "About me"
 author_profile: true
 redirect_from: 
