@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-</br>
-</br>
+&nbsp;
+&nbsp;
 
 Education
 ======
 * Bachelor of Journalism, The University of Hong Kong, 2025 (expected)
 
-</br>
+&nbsp;
 
 .pdf
 ======
@@ -24,7 +24,7 @@ Education
 * For Finance
 * For CompSci
 
-</br>
+&nbsp;
 
 Experience
 ======
