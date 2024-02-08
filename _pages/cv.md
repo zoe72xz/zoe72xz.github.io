@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-&nbsp;
-
 * For Journalism
 * For Finance
 * For CompSci
