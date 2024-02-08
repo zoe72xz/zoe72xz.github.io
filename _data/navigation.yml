@@ -17,5 +17,6 @@ main:
 
   - title: "baka.io"
     url: /baka/
+    class: "btn"
 
 
