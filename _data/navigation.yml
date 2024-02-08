@@ -9,8 +9,8 @@ main:
   - title: "Notes"
     url: /notes/    
     
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
   
   - title: "CVs"
     url: /cv/
