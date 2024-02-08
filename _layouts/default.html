@@ -28,4 +28,20 @@ layout: compress
     {% include scripts.html %}
 
   </body>
+
+  <ul>
+  {% for nav_item in site.navigation %}
+    <li>
+      {% if nav_item.title == "baka.io" %}
+        <!-- If the title is "baka.io", add the "btn" class -->
+        <a href="{{ nav_item.url }}" class="btn">{{ nav_item.title }}</a>
+      {% else %}
+        <!-- For all other nav items, do not add the "btn" class -->
+        <a href="{{ nav_item.url }}">{{ nav_item.title }}</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
 </html>
+
