@@ -27,8 +27,7 @@ Experience
 
 &nbsp;
 
-<!-- 
-Publications
+<!-- Publications
 ======
 
  {% if author.googlescholar %}
@@ -39,5 +38,4 @@ Publications
 
  {% for post in site.publications reversed %}
    {% include archive-single.html %}
- {% endfor %}
---!>
+ {% endfor %} --!>
